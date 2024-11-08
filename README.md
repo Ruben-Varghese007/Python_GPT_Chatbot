@@ -1,6 +1,6 @@
-# Python GPT Chatbot - OpenAI
+## Python GPT Chatbot - OpenAI
 
-## NOTE:
+### NOTE:
 This chatbot uses the OpenAI API, which requires a paid subscription and is not free to use.
 
 ### To create virtual environment
