@@ -3,9 +3,9 @@
 ## NOTE:
 This chatbot uses the OpenAI API, which requires a paid subscription and is not free to use.
 
-## To create virtual environment
-virtualenv myenv
-myenv\Scripts\activate
+### To create virtual environment
+- virtualenv myenv
+- myenv\Scripts\activate
 
 1. Activate Virtual Environment
 myenv\Scripts\activate
