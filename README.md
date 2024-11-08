@@ -3,7 +3,7 @@
 ### NOTE:
 This chatbot uses the OpenAI API, which requires a paid subscription and is not free to use.
 
-### To create virtual environment
+### To Create a Virtual Environment
 > virtualenv myenv
 
 > myenv\Scripts\activate
@@ -14,10 +14,10 @@ This chatbot uses the OpenAI API, which requires a paid subscription and is not 
 2. To Deactivate Virtual Environment 
 > deactivate
 
-3. Install the openai package
+3. Install the openai Package
 > pip install openai
 
-4. To create an API Key
+4. To Create an API Key
 > Visit : https://platform.openai.com/api-keys
 
 ### Overview
